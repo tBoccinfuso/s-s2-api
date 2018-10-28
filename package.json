@@ -1,0 +1,30 @@
+{
+  "name": "s-s2-api",
+  "version": "1.0.0",
+  "description": "Swords &amp; Soldiers 2 community api",
+  "main": "index.js",
+  "scripts": {
+    "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tBoccinfuso/s-s2-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tBoccinfuso/s-s2-api/issues"
+  },
+  "homepage": "https://github.com/tBoccinfuso/s-s2-api#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "forever": "^0.15.3"
+  }
+}

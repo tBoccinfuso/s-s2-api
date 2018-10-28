@@ -1,0 +1,100 @@
+{
+  "factions":{
+    "vikings": {
+      "description": "Led by their hungry Chief Redbeard, Vikings are a reckless bunch. The only thing they love more than barbeque feasts and drinking mead is a good early morning brawl. Often more brawn than brains, they tend to be easily out-witted but never out muscled!",
+      "splash": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/vikingscroll_bigfont.png",
+      "units":{
+        "berserkers": {
+          "name": "Berserker",
+          "description": "Berserkers are the first and last line of defense in most Viking brawls. Bringing their heavy war axes into battle, they excel at bar-brawls and log throwing contests.",
+          "video": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/Vikings_Short_Berserker.mp4"
+        }
+      },
+      "special_units":{
+        "helga": {
+          "name": "Helga",
+          "description": "Helga is the toughest of Viking warriors. Her questionable musical talent allows her to sing a somewhat out-of-tune aria that inspires allies to fight with greater resolve!",
+          "video": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/Vikings_Short_Helga.mp4"
+        }
+      },
+      "spells": {
+        "snowstorm": {
+          "name": "Snowstorm",
+          "description": "Some Viking Chiefs have such control over the elements that they can even call upon Hodur, God of Winter to create a temporary, and very local snowstorm.",
+          "video": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/Vikings_Short_Blizzard.mp4"
+        }
+      },
+      "towers":{
+        "guard_tower":{
+          "name": "Guard Tower",
+          "description": "High and dry! This guard tower can hold one ranged unit, granting it increased attack range and damage. And of course a fantastic view!",
+          "video": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/Vikings_Short_Tower.mp4"
+        }
+      }
+    },
+    "demons": {
+      "description": "The demon horde is an insidious faction giving home to the most vile creatures. Often hiding in the dark caves or other infernal places, their ranks consist of sadistic imps, serpent creatures and other hellspawned wretches.",
+      "splash": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/demonscroll_bigfont.png",
+      "units":{
+        "barrel_riders": {
+          "name": "Barrel Riders",
+          "description": "Walking a barrel of highly volatile explosives into battle might not seem like the brightest of ideas, but it's surely effective at disposing of groups of enemies!",
+          "video": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/Demon_Short_Barrelrider.mp4"
+        }
+      },
+      "special_units":{
+        "seige_troll": {
+          "name": "Siege Troll",
+          "description": "Siege Trolls carry huge shields which allow them to take huge amounts of damage before they succumb. They can also throw their smaller companions over enemy obstacles.",
+          "video": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/Demon_Short_Shieldemon.mp4"
+        }
+      },
+      "spells": {
+        "snowstorm": {
+          "name": "Ooga Booga",
+          "description": "The Ooga Booga spell allows Demonic Overlords to cast a horrific spirit on a friendly warrior, instilling terror into all nearby enemies.",
+          "video": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/Demon_Short_Fear.mp4"
+        }
+      },
+      "towers":{
+        "guard_tower":{
+          "name": "Bomb Tower",
+          "description": "One of the more devious Demonic practices is the construction of Bomb Towers. Unsuspecting enemies who try to clear the obstruction will trigger a devastating explosion!",
+          "video": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/Demon_Short_Bomb.mp4"
+        }
+      }
+    },
+    "persians": {
+      "description": "Deep in the deserts, behind the walls of wondrous cities, the Persians go their mysterious ways. Capable of creating fantastical constructs and harnassing powerful magic, they are quick to adapt to any situation.",
+      "splash": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/persianscroll_bigfont.png",
+      "units":{
+        "shamshir_soldier": {
+          "name": "Shamshir Soldiers",
+          "description": "Wielding their sacred curved blades into battle, the Shamshir Soldiers posess the uncanny ability to heal themselves when out of combat.",
+          "video": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/Persians_Short_Shamshir.mp4"
+        }
+      },
+      "special_units":{
+        "genie": {
+          "name": "Genie",
+          "description": "The most powerful of Persian warriors is Phil, the Genie. Aside from smashing up enemies, his hobbies are: granting wishes that reduce spell costs and golf.",
+          "video": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/Persians_Short_Genie.mp4"
+        }
+      },
+      "spells": {
+        "snowstorm": {
+          "name": "Bribe",
+          "description": "When the Persian vaults are filled to the brim with gold and mana, they can use their considerable resources to bribe enemy units to fight for them.",
+          "video": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/Persians_Short_Bribe.mp4"
+        }
+      },
+      "towers":{
+        "guard_tower":{
+          "name": "Djinn Cannon",
+          "description": "Having a knack for technology as well as mysticism, the Persians have developed Djinn Cannons which can bombard an area with magical Djinns.",
+          "video": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/Persians_Short_Cannon.mp4"
+        }
+      }
+    }
+  }
+}
