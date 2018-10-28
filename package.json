@@ -4,7 +4,7 @@
   "description": "Swords &amp; Soldiers 2 community api",
   "main": "index.js",
   "scripts": {
-    "start": "forever start app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
