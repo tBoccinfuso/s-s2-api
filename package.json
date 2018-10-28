@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Swords &amp; Soldiers 2 community api",
   "main": "index.js",
+  "scripts": {
+    "start": "forever start app.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tBoccinfuso/s-s2-api.git"
