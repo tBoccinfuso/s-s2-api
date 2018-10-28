@@ -57,7 +57,7 @@
         }
       },
       "towers":{
-        "guard_tower":{
+        "bomb_tower":{
           "name": "Bomb Tower",
           "description": "One of the more devious Demonic practices is the construction of Bomb Towers. Unsuspecting enemies who try to clear the obstruction will trigger a devastating explosion!",
           "video": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/Demon_Short_Bomb.mp4"
@@ -82,14 +82,14 @@
         }
       },
       "spells": {
-        "snowstorm": {
+        "bribe": {
           "name": "Bribe",
           "description": "When the Persian vaults are filled to the brim with gold and mana, they can use their considerable resources to bribe enemy units to fight for them.",
           "video": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/Persians_Short_Bribe.mp4"
         }
       },
       "towers":{
-        "guard_tower":{
+        "djinn_cannon":{
           "name": "Djinn Cannon",
           "description": "Having a knack for technology as well as mysticism, the Persians have developed Djinn Cannons which can bombard an area with magical Djinns.",
           "video": "http://www.awesomenauts.com/SnS2_v2/wp-content/uploads/2015/05/Persians_Short_Cannon.mp4"
